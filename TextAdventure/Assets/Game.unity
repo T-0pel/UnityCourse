@@ -209,8 +209,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -65}
-  m_SizeDelta: {x: 946, y: 326}
+  m_AnchoredPosition: {x: 0, y: -82}
+  m_SizeDelta: {x: 691, y: 367}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &232019384
 MonoBehaviour:
@@ -236,7 +236,7 @@ MonoBehaviour:
     m_FontSize: 23
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 2
+    m_MinSize: 0
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -244,18 +244,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur scelerisque
-    faucibus. Proin rutrum ligula id lorem auctor suscipit. Vivamus eros neque, porta
-    eu eros et, laoreet fringilla sapien. Pellentesque habitant morbi tristique senectus
-    et netus et malesuada fames ac turpis egestas. Maecenas sit amet leo sed ante
-    laoreet dictum. Donec vitae purus quis erat iaculis cursus. Nunc iaculis, nulla
-    porttitor malesuada posuere, libero neque euismod ante, a sodales purus nisi sed
-    lorem. In hac habitasse platea dictumst. Proin vulputate orci eros, id laoreet
-    sem blandit id. Donec sit amet turpis id erat volutpat hendrerit. Maecenas porta
-    ex tempor, fringilla odio a, tincidunt tellus. Aenean vitae sagittis ligula. Proin
-    blandit mollis purus sed posuere. In at metus id neque facilisis iaculis non sit
-    amet ex. Sed commodo augue ac orci tempus, ut pretium lorem luctus. Pellentesque
-    non mauris tristique, tincidunt sem non, pulvinar quam.
+  m_Text: 
 --- !u!222 &232019385
 CanvasRenderer:
   m_ObjectHideFlags: 0
